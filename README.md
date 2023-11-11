@@ -1,7 +1,12 @@
 ### Hi there 👋 I am Mariyan
 
 - 🌱 I’m currently learning C++ and C# @SoftUni
-- 📫 How to reach me: m.zhikov@gmail.com
+- 📫 How to reach me:
+     <!-- m.zhikov@gmail.com -->
+
+<a href="www.linkedin.com/in/mariyan-zhikov-57982780" target="_blank" rel="noopener noreferrer"> <img src="https://github.com/devicons/devicon/blob/v2.14.0/icons/linkedin/linkedin-original.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+<a href="mailto:m.zhikov@gmail.com"> <img src="https://cdn-icons-png.flaticon.com/512/726/726623.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a> 
+
 
 <!--[![MZhikoV's GitHub stats](https://github-readme-stats.vercel.app/api?username=MZhikoV)](https://github.com/MZhikoV/github-readme-stats)-->
 
