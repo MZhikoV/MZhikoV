@@ -1,4 +1,4 @@
-### Hi there 👋 I am Mariyan
+### Hi there 👋 I am Mariyan Zhikov
 
 - 🌱 I’m currently learning C++ and C# @SoftUni
 - 📫 How to reach me:
