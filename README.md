@@ -12,9 +12,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MZhikoV&theme=radical)
 
 
-
 Languages and tools I use:
 
+<img align="left" alt="C++" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="C#" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/csharp/csharp-original.svg" style="padding-right:10px;" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="MATLAB" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
+
+
+<img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" />
+
+<img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" style="padding-right:10px;" />
 
 <!--
 **MZhikoV/MZhikoV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
