@@ -26,7 +26,7 @@ Languages and tools I use:
 
 
 <img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/visualstudio/visualstudio-plain.svg" />
-
+<img align="left" alt="Visual Studio" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/vscode/vscode-original.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://github.com/devicons/devicon/blob/v2.14.0/icons/github/github-original.svg" style="padding-right:10px;" />
 
 <!--
