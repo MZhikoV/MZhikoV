@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Mariyan Zhikov
 
-- 🌱 I’m currently learning C++ and C# @SoftUni
+- 🌱 I’m currently a C++ Development student @SoftUni
 - 📫 How to reach me:
      <!-- m.zhikov@gmail.com -->
 
