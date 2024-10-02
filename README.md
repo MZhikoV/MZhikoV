@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Mariyan Zhikov
-
-- 🌱 I’m currently a C++ Development student @SoftUni
+- 💡 I'm currently looking for a career in C/C++ development.
+<!-- - 🌱 I’m currently a C++ Development student @SoftUni -->
 - 📫 How to reach me:
      <!-- m.zhikov@gmail.com -->
 
